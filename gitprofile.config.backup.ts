@@ -5,7 +5,7 @@ const CONFIG = {
     username: 'D-Samyy', 
   },
   
-  base: '/',
+  base: '/gitprofile/',
   projects: {
     github: {
       display: false, // Display GitHub projects?
